@@ -1,0 +1,2 @@
+Get hash of all files in current working directory
+Get-ChildItem | Get-FileHash
