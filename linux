@@ -1,0 +1,2 @@
+Hash all files in current working directory
+find . -type f -exec md5sum {} > {}.md5sum \;
